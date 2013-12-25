@@ -1,3 +1,7 @@
+[2013-12-25] JSON conversion of datasets/currency-codes,  
+
+---
+
 List of currencies and their 3 digit codes as defined by [ISO 4217][iso-4217]. The data
 provided here is the consolidation of Table A.1 Current currency & funds code list
 
